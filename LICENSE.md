@@ -1,4 +1,4 @@
-# 
+# Inteligente PowerToys flujo de trabajo para Mac OS | Élite PowerToys flujo de trabajo para PC Windows. Con aceleración de hardware y soporte de teclas rápidas — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
